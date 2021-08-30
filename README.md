@@ -5,7 +5,7 @@ USCIS related scripts
 - uscis-case-status-mailer.py
 
 # Howto
- - Configure/Create application password in yahoo mail for sending emails. You could use any other smtp email system. Create yahoo app password as mentioned here  https://servantpc.freshdesk.com/en/support/solutions/articles/17000100424-changing-yahoo-settings-using-app-passwords
+ - Configure/Create application password in yahoo mail for sending emails. You could use any other smtp email system. Create yahoo app password as mentioned here - follow until step 5 -  https://servantpc.freshdesk.com/en/support/solutions/articles/17000100424-changing-yahoo-settings-using-app-passwords
  - Create Constants.py file with content like this below 'names' is a python dictionary with MSC/TSC etc file numbers and names/Forms of your family/friends.
  - Place Email server details and credentials in in Constants.py file accordingly (format below)
  
