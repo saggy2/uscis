@@ -1,3 +1,5 @@
+This program (uscis-case-status-mailer.py) reads the list of MSC etc. case numbers from the Constants.py file and checks the USCIS website for their status. It also reads the email server, source and destination addresses and credentials and uses them to send the email of all the results combined.
+
 # uscis
 USCIS related scripts
 
