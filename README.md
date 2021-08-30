@@ -9,13 +9,13 @@ USCIS related scripts
  
 
 # File constants.py:
-names={"MSC2120640168": "Ramesh_I-485J", "MSC2190312345": "Ramesh_I-485",
-       "MSC2190312346": "Rita_I-485",
-      "MSC2190312347": "Terri_I-485"  }
+    names={"MSC2120640168": "Ramesh_I-485J", "MSC2190312345": "Ramesh_I-485",
+           "MSC2190312346": "Rita_I-485",
+          "MSC2190312347": "Terri_I-485"  }
 
-#The email game
-port = 587  # For starttls
-smtp_server = "smtp.mail.yahoo.com"
-sender_email = "senders-email-addr43@yahoo.com"
-receiver_emails = ["receiver1-email-fdfrd@gmail.com", "receiver2-email-hwtdf@gmail.com"]
-password = "fdfgjrsaswdfsrtg"
+    #The email game
+    port = 587  # For starttls
+    smtp_server = "smtp.mail.yahoo.com"
+    sender_email = "senders-email-addr43@yahoo.com"
+    receiver_emails = ["receiver1-email-fdfrd@gmail.com", "receiver2-email-hwtdf@gmail.com"]
+    password = "fdfgjrsaswdfsrtg"
